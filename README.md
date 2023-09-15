@@ -1,6 +1,6 @@
 ## Hi, i´m Juan 👨‍💻🖥️
 
-### About 
+### About me
 <p>Hi, I'm Juan Guillermo, a Software Developer 🤍 from Colombia 🌎, currently, I'm a software development technician 👨‍🎓 . I´m an enthusiastic learner and that is one of the reasons why I love coding, I always learn new things.</p>
 
 
