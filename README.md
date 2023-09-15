@@ -38,9 +38,11 @@
 - 📝 See my [Curriculum Vitae](https://calm-bienenstitch-c46215.netlify.app/) to get more info.
 
 
-### You can find me 👇 
-- [Linkedin](https://www.linkedin.com/in/juan-guillermo-ruiz-alvarez-9733981b2/)
-- [Instagram](https://www.instagram.com/juan.gkr/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+### You can find me 👇
+
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" > <br> [Linkedin](https://www.linkedin.com/in/juan-guillermo-ruiz-alvarez-9733981b2/)
+
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"> <br> [Instagram](https://www.instagram.com/juan.gkr/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
 
 
