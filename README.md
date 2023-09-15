@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, i´m Juan 👋👨‍💻🖥️
+![Webp net-resizeimage (1)](https://github.com/JuanGuillermoR/JuanGuillermoR/assets/100444323/5f7158ac-aaba-4151-b3e4-04f2bb62829f)
 
+``` JS
+const Juan = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React, Node, Mern, Angular],
+}
+```
 <!--
 **JuanGuillermoR/JuanGuillermoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
